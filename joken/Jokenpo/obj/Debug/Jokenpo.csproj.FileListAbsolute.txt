@@ -1,0 +1,11 @@
+C:\Users\homao\source\repos\joken\Jokenpo\bin\Debug\Jokenpo.exe.config
+C:\Users\homao\source\repos\joken\Jokenpo\bin\Debug\Jokenpo.exe
+C:\Users\homao\source\repos\joken\Jokenpo\bin\Debug\Jokenpo.pdb
+C:\Users\homao\source\repos\joken\Jokenpo\obj\Debug\Jokenpo.csproj.AssemblyReference.cache
+C:\Users\homao\source\repos\joken\Jokenpo\obj\Debug\Jokenpo.csproj.SuggestedBindingRedirects.cache
+C:\Users\homao\source\repos\joken\Jokenpo\obj\Debug\Jokenpo.Form1.resources
+C:\Users\homao\source\repos\joken\Jokenpo\obj\Debug\Jokenpo.Properties.Resources.resources
+C:\Users\homao\source\repos\joken\Jokenpo\obj\Debug\Jokenpo.csproj.GenerateResource.cache
+C:\Users\homao\source\repos\joken\Jokenpo\obj\Debug\Jokenpo.csproj.CoreCompileInputs.cache
+C:\Users\homao\source\repos\joken\Jokenpo\obj\Debug\Jokenpo.exe
+C:\Users\homao\source\repos\joken\Jokenpo\obj\Debug\Jokenpo.pdb
